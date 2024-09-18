@@ -4946,7 +4946,7 @@ p.panel-title a.collapsed {
 }
 
 .card-header i {
-    background: #da0f32;
+    background: #fff;
     color: #fff;
     border-radius: 5px;
     font-size: 20px;
@@ -6111,7 +6111,7 @@ label {
     display: none;
 }
 header i {
-    color: #da0f32;
+    color: #fff;
     font-size: 32px;
     text-align: center;
 }
